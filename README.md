@@ -1,6 +1,5 @@
 ### Hi there, I'm dyzqy - aka [Ase's Son][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UCiK3mcH4kUkTFciX2cy7rXg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ases_Son?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UCiK3mcH4kUkTFciX2cy7rXg)
 
 ## I'm Ase's Son
