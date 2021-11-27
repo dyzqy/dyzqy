@@ -1,19 +1,18 @@
-### Hi there, I'm dyzqy - aka [Ase's Son][website] 👋 
+### Hi there, I'm dyzqy - aka [Ase's Son][website] 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ases_Son?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UCiK3mcH4kUkTFciX2cy7rXg)
 
 ## I'm Ase's Son
 
-- 🌱 I’m currently learning Action Script 3
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and code :P
+- I’m currently learning Action Script 3
+- I’m looking to collaborate with other content creators
+- Fun fact: I love to draw and code :P
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dyzqy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="dyzqy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="dyzqy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -33,7 +32,7 @@
 
 [website]: https://www.youtube.com/channel/UCiK3mcH4kUkTFciX2cy7rXg
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Ases_Son
 [youtube]: https://www.youtube.com/channel/UCiK3mcH4kUkTFciX2cy7rXg
 [instagram]: https://instagram.com/dyzqy
 [sw3playlist]: https://www.youtube.com/playlist?list=PLOCY9wS_ZuOF9itzr-43LvcV43Lp9o5oR
