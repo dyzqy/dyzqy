@@ -1,6 +1,6 @@
 ### Hi there, I'm dyzqy - aka [Ase's Son][website] 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ases_Son?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UCiK3mcH4kUkTFciX2cy7rXg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ases_Son?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ases_Son)
 
 ## I'm Ase's Son
 
