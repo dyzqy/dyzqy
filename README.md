@@ -4,8 +4,8 @@
 
 ## I'm Ase's Son
 
-- I’m currently learning Action Script 3
-- I’m looking to collaborate with other content creators
+- I’m a pro at de-compilied AS3
+- i mod Stick War II
 - Fun fact: I love to draw and code :P
 
 ### Connect with me:
