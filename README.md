@@ -1,5 +1,5 @@
 ## Welcome🖐
-Hello there, i'm **dyz**! i mod flash games & make small prototypes on Unity. I hope you like the projects i work on :)
+Hello there, i'm **dyz**! i  make small prototypes on Unity. I used to mod Flash Games and was very good at it at one point.
 
 ## Recent Projects
 <!-- [EasyController](https://github.com/dyzqy/EasyController) focuses on making modding & creating levels **easier** on the flash game Stick War 2.-->
