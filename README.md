@@ -1,9 +1,17 @@
 ## Welcome🖐
 Hello there, i'm **dyz**! i  make small prototypes on Unity. I used to mod Flash Games and was very good at it at one point.
+This is currently my most worked on project 👇
+- [Madness: CN2047](https://discord.com/invite/ZY3fSbKKMQ), was a planned remake of *Madness Accelerant*, turned into Fangame! Taking inspiration from Madness Accelerant, Madness Interactive Reloaded, Zombotron and more, i hope to make an engaging game while also not forgetting the core... **Madness. Moar Madness**
 
-## Recent Projects
+## About me🤔
+I'm a programmer, my early programming years started with HTML and later i learnt Unity C#. I am active on discord, and i like to mostly talk abou thought invoking discussions.
+I have chosen this year to do somethign great, i want to make a game before reaching 17 years old. I'm currently 16, and have till April to make the game. Why? Well, i like a well rounded number better than 17.
+
+This year i hope to also achive another thing... Commits all year! i want to fill those black squares with a viberant green color, every single one😉
+
+DM me on discord(dyzqy) as it is the only social platform i use other than NewGrounds. Thank you for reading this ramble of a random kid and thank you!
+
+## Recent Projects❤️
 <!-- [EasyController](https://github.com/dyzqy/EasyController) focuses on making modding & creating levels **easier** on the flash game Stick War 2.-->
-- [Anton Karlov Archive](https://github.com/Qestoski/Anton-Karlov-Archives), made to house all **flash game versions** of the developer AntKarlov!
-- [Stick War(flash game) Wiki](https://stickwar.miraheze.org/wiki/Main_Page), a wiki focused on keeping **updated information** about the Stick War flash game series(it is still in its early stage). If you are **intrested** in helping, dm me on discord!(#dyzqy)
-- [Madness Accelerant Remake](https://discord.com/invite/ZY3fSbKKMQ), a remake of *Madness Accelerant*! Made to remake systems so the parts are ready for use when other games are planned :)
-
+- [Anton Karlov Archive](https://github.com/Qestoski/Anton-Karlov-Archives), made to house all **flash game versions** of the developer AntKarlov! (Unintrested for now)
+- [Stick War(flash game) Wiki](https://stickwar.miraheze.org/wiki/Main_Page), a wiki focused on keeping **updated information** about the Stick War flash game series(it is still in its early stage). If you are **intrested** in helping, dm me on discord!(#dyzqy) (Unintrested for now)
