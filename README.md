@@ -11,6 +11,8 @@ This year i hope to also achive another thing... Commits all year! i want to fil
 
 DM me on discord(dyzqy) as it is the only social platform i use other than NewGrounds. Thank you for reading this ramble of a random kid and thank you!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzqy&theme=dark&langs_count=5)
+
 ## Recent Projects❤️
 <!-- [EasyController](https://github.com/dyzqy/EasyController) focuses on making modding & creating levels **easier** on the flash game Stick War 2.-->
 - [Champion Archer in Godot](https://github.com/dyzqy/Godot-Champion-Archer), My _first_ godot project! had abondended it 1 year and 3 months ago, now back to get it to its full glory... and learn godot in the process 🔥
