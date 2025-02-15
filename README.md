@@ -19,5 +19,5 @@ DM me on discord(dyzqy) as it is the only social platform i use other than NewGr
 - [Stick War(flash game) Wiki](https://stickwar.miraheze.org/wiki/Main_Page), a wiki focused on keeping **updated information** about the Stick War flash game series(it is still in its early stage). If you are **intrested** in helping, dm me on discord!(#dyzqy)
   
 - [Anton Karlov Archive](https://github.com/Qestoski/Anton-Karlov-Archives), made to house all **flash game versions** of the developer AntKarlov! (Unintrested for now)
-- <!-- A secret project, i'll tell you on late :)-->
+<!-- -A secret project, i'll tell you on late :)-->
 
