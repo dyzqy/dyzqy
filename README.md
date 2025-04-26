@@ -4,12 +4,11 @@ This is currently my most worked on project 👇(not as much work on feburary)
 - [Madness: CN2047](https://discord.com/invite/ZY3fSbKKMQ), was a planned remake of *Madness Accelerant*, turned into Fangame! Taking inspiration from Madness Accelerant, Madness Interactive Reloaded, Zombotron and more, i hope to make an engaging game while also not forgetting the core... **Madness. Moar Madness**
 
 ## About me🤔
-I'm a programmer, my early programming years started with HTML and later i learnt Unity C#. I am active on discord, and i like to mostly talk abou thought invoking discussions.
-I have chosen this year to do somethign great, i want to make a game before reaching 17 years old. I'm currently 16, and have till April to make the game. Why? Well, i like a well rounded number better than 17.
+I'm a programmer, my early programming years started with HTML and later i learnt Unity C#. Currently learning haxe, as it is similiar to AS3, the language I learnt to mod Flash games. I am very active on discord, and i like to mostly talk about thought invoking discussions.
 
 This year i hope to also achive another thing... Commits all year! i want to fill those black squares with a viberant green color, every single one😉
 
-DM me on discord(dyzqy) as it is the only social platform i use other than NewGrounds. Thank you for reading this ramble of a random kid and thank you!
+DM me on discord(dyzqy) as it is the only social platform i use other than NewGrounds. Thank you for reading this ramble of a random guy and thank you!
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyzqy&theme=dark&langs_count=5)-->
 
