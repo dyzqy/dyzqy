@@ -4,7 +4,7 @@ Hello there, I'm **dyz**! i  make small prototypes on Unity. I used to mod Flash
 ## About me🤔
 I'm a programmer, my early programming years started with As3(to mod Flash Games), then Unity's C#. Currently learning Haxe, as it is most similiar to AS3. 
 
-This year i hope to also achive another thing... Commits all year! i want to fill those black squares with a viberant green color, every single one😉
+2026 I am expanding on my theolohy! I am learning more about Islam and Christianity every day, and I am hoping to learn more about them and every other religion day by day :D
 
 DM me on discord(dyzqy) as it is the only social platform i use other than NewGrounds. Thank you for reading this ramble of a random guy and thank you!
 
